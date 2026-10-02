@@ -359,6 +359,9 @@ poly.local.toml
 # local run with that flag drops an artifact in the repo root.
 testResults.xml
 
+# ai-rulez generated OpenCode config (local tooling output)
+opencode.json
+
 # BEGIN ai-rulez (DO NOT EDIT - managed by ai-rulez)
 .ai-rulez/.generated-manifest.json
 .opencode/
